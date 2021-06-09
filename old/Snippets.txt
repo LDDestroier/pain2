@@ -1,0 +1,31 @@
+-- was going to be used in lib/PaintSurface.lua
+-- is exactly what it looks like
+
+if     new_width == self.width and new_height == self.height then
+    -- do nothing
+
+elseif new_width == self.width and new_height >  self.height then
+    -- increase height
+    
+elseif new_width == self.width and new_height <  self.height then
+    -- decrease height
+
+elseif new_width >  self.width and new_height == self.height then
+    -- increase width
+
+elseif new_width <  self.width and new_height == self.height then
+    -- decrease width
+
+elseif new_width >  self.width and new_height >  self.height then
+    -- increase width, increase height
+
+elseif new_width <  self.width and new_height >  self.height then
+    -- decrease width, increase height
+
+elseif new_width >  self.width and new_height <  self.height then
+    -- increase width, decrease height
+
+elseif new_width <  self.width and new_height <  self.height then
+    -- decrease width, decrease height
+
+end
