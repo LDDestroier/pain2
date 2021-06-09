@@ -11,24 +11,24 @@ But what's more imporant...
 ###### PAIN 2 is a dumb name and I wish I picked a better one from the start
 Here's a list of potential other names:
 - CBrush
- - Pun on ZBrush
- - Could be confused with being a 3D tool...
+  - Pun on ZBrush
+  - Could be confused with being a 3D tool...
 - Paintu
- - Pun on "Pain 2"
- - Dumb
- - Stupid
+  - Pun on "Pain 2"
+  - Dumb
+  - Stupid
 - CIMP
- - "Computercraft Image Manipulation Program"
- - Play on GIMP
- - Sounds awkward
+  - "Computercraft Image Manipulation Program"
+  - Play on GIMP
+  - Sounds awkward
 - Limn
- - It means to paint, but with words
- - Obscure word == instant fancy
- - Who the fuck is going to know what that word means
+  - It means to paint, but with words
+  - Obscure word == instant fancy
+  - Who the fuck is going to know what that word means
 - Dye
- - It means to paint, with paint
- - Short and convenient to type in a terminal
- - Thematically consistent with PAIN (pain, die, the works)
+  - It means to paint, with paint
+  - Short and convenient to type in a terminal
+  - Thematically consistent with PAIN (pain, die, the works)
 
 #### ABOUT:
 I intend for PAIN 2 (or whatever I call it) to be a simple-to-use, modular paint program that has at least as many features as PAIN 1, but without needing to memorize a bunch of arbitrarily defined hotkeys.
